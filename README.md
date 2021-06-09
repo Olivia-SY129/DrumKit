@@ -10,6 +10,7 @@ Play Drum!
 
 #### Exmaple: When you press A key, it will play 'Clap' sound  </br>
 
-![image](https://user-images.githubusercontent.com/81205807/121284707-3d504180-c918-11eb-9392-7142c52d5e8a.png)  </br>
+![image](https://user-images.githubusercontent.com/81205807/121285034-adf75e00-c918-11eb-9992-be3a5d7bf050.png)
+
 
 ### Enjoy!
