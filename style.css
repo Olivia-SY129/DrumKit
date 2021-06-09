@@ -27,6 +27,8 @@ kbd {
 }
 
 .key {
+  display: flex;
+  flex-direction: column;
   color: white;
   margin: 10px;
   padding: 10px;
